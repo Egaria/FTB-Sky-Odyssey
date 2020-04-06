@@ -1,0 +1,16 @@
+{
+  "mod_id": "a",
+  "mod_version": "",
+  "__verified_comment": "Do not change this to true. If you do so your PR will be automatically rejected.",
+  "verified": false,
+  "file": "a_db3e8.md",
+  "cycle_icons": false,
+  "pages": [
+    {
+      "id": "introduction_to_ftb_sky_odyssey",
+      "file": "",
+      "cycle_icons": false,
+      "hidden": false
+    }
+  ]
+}

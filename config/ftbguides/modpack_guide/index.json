@@ -1,0 +1,12 @@
+[
+	{
+		"id": "intro",
+		"title": "Introduction",
+		"icon": "item:projecte:item.pe_tome"
+	},
+	{
+		"id": "hints",
+		"title": "Hints and Tips",
+		"icon": "item:torchmaster:mega_torch"
+	}
+]

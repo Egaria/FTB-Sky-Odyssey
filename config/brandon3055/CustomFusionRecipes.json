@@ -1,0 +1,90 @@
+[    
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:chaos_shard",
+        "catalyst": "projecte:item.pe_matter",
+        "energy": 100000000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core"
+            
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:chaos_shard",
+        "catalyst": "projecte:item.pe_matter",
+        "energy": 100000000,
+        "tier": 3,
+        "ingredients": [
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core"
+            
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "minecraft:spawn_egg,1,0,{EntityTag:{id:\"minecraft:blaze\"}}",
+        "catalyst": "projectex:clay_matter,1",
+        "energy": 18518518518.5,
+        "tier": 3,
+        "ingredients": [
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core"
+
+            
+        ]
+    }
+]
+
+

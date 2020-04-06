@@ -1,0 +1,3 @@
+At the start of the game you have a variety of ways to generate EMC. Firstly you can take advantage of the buffs to twerking and Ore Excavator to grow and harvest large amounts of trees. In addition you can produce EMC from the resources and loot crates dropped by hostile mobs using some form of automated mob farm. The pack also includes both the chickens mod and mystical agriculture which can produce large quantities of various resources. You may also find some methods of producing EMC by taking advantage of certain items available in the in-game shop. 
+
+This is just a few of the ways of generating EMC early in your playthrough, you may also find other efficient ways of generating EMC that have not been listed here.

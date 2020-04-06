@@ -1,0 +1,44 @@
+## V1.3.2
+
+# Fixes
+- Changed stone in castle to polished andesite.
+
+## V1.3.1
+
+# Fixes
+
+- Fixed Hell spawn.
+
+## V1.3
+
+# Fixes
+
+- Added difficulty to the descriptions.
+
+# Additions
+
+- 2 new islands
+
+## V1.2
+
+# Fixes
+
+- Fixed several typos in info files.
+- Set the proper author.
+- Added variations.json, is needed to have islands show up in the selection screen.
+
+# Additions
+
+- Added Stoneblock 2
+
+
+## V1.1
+
+# Fixes
+
+- Fixed darkspots in pyramid island.
+- Fixed volcano structure name.
+
+# Additions
+
+- Added hell island

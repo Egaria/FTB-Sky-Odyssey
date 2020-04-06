@@ -1,0 +1,1 @@
+Ore Excavator has had its range vastly extended and the hunger component has been (mostly) removed. This also applies to Twerk Sim.

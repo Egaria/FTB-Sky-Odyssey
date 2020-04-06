@@ -1,0 +1,1 @@
+If you can fill a YABBA barrel using the infinite capacity upgrade (holds 2.1 billion items), The barrel will change into a creative barrel (Fixed to the item that you have filled the barrel with.

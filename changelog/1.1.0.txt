@@ -1,0 +1,80 @@
+1.1.0
+
+This version is to be considered Beta 2.
+
+Mods Removed
+
+Custom Credits Mod (This has been removed temporarily whilst we look for better solutions.)
+Matter Overdrive. (Mod has been removed completely due to unforeseen issues.)
+
+Mods Updated
+
+Attribute Fix 1.12.2-1.0.7
+BetterBuildersWand 1.12.2-0.13.2.271+5997513
+BoneAppetit 1.0.0.4
+Botania r1.10-362-custom (this custom version is being distributed with the consent of vazkii.)
+BuildingGadgets 2.6.8
+CraftTweaker2 1.12-4.1.17
+Dark Utilities 1.12.2-1.8.226
+Deep Mob Learning 1.12.2-2.4.2
+EnderCore 1.12.2-0.5.52
+EnderIO 1.12.2-5.0.43
+EnvironmentalTech 1.12.2-2.0.20.1
+FastFurnace 1.12.2-1.2.2
+Foamfix 0.10.5-1.12.2
+Framland 1.12.2-1.0.10
+FTB OdysseyWorld 1.12.2-1.1.0.11
+FTB Lib 5.4.1.93
+FTB Money 1.1.0.28
+FTB Quests 1.5.141
+FTB Utilities 1.0.0.3
+HardCoreMapReset 4.2.3.39
+IndustrialForegoing 1.12.2-1.12.11-235
+InventorySorter 1.12.2-1.13.3+57
+ItemFilters 1.0.2.9
+JEI 1.12.2-4.15.0.273
+JER 1.12.2-0.9.0.53
+Loading Tips 1.12.2-1.1.0
+Loottweaker 1.12.2-0.0.9
+Modpack Configuration Checker 1.12.2-v1.8
+Modtweaker 4.0.17
+Patchouli 1.0.18
+PetSlow 0.1.3
+Placebo 1.12.2-1.6.0
+ProjectEX 1.1.0.25
+RandomThings MC1.12.2-4.2.7
+RebornCore 1.12.2-3.13.10.441
+RefinedStorage 1.6.14
+Refined Storage Addons 0.0.4
+Simply Jetpacks 1.12.2-2.2.11.64
+Surge 1.12.2-2.0.77
+TeamIslands 1.1.0.24
+TechReborn 1-12.2-2.22.1.979
+Thaumic JEI 1.12.2-1.5.6-24
+TipTheScales 1.12.2-1.0.4
+Triumph 1.12.2-3.16.0
+ValkyrieLib 1.12.2-2.0.20.1
+Wireless Crafting Terminal 1.12.2-3.11.88
+YABBA 1.1.2.46
+
+Mods Added
+Enable Cheats (This mod has been added to avoid a bug when switching to LAN mode.)
+Tesslocators (A new mod that provides items similar to translocators, but kinder to server performance.)
+
+Config Changes
+
+More Chickens
+Various changes to fix bugs to chicken breeding
+
+FTB Quests
+Various bug fixes to quests.
+
+Maps
+
+Cleaned up maps
+Added new icons
+Added a couple of new starter maps
+
+General Changes
+
+Fixed various broken recipes

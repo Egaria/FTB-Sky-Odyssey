@@ -1,0 +1,42 @@
+[
+	{
+		"id": "island",
+		"title": "Island Choices",
+		"icon": "item:minecraft:writable_book"
+	},
+	{
+		"id": "teams",
+		"title": "Teams",
+		"icon": "item:minecraft:writable_book"
+	},
+	{
+		"id": "shop",
+		"title": "Shop",
+		"icon": "item:minecraft:writable_book"
+	},
+	{
+		"id": "quest_hub",
+		"title": "Quest Hub",
+		"icon": "item:minecraft:writable_book"
+	},
+	{
+		"id": "task_screens",
+		"title": "Task Screens",
+		"icon": "item:minecraft:writable_book"
+	},
+	{
+		"id": "custom_mods",
+		"title": "Custom Mod Addons",
+		"icon": "item:minecraft:writable_book"
+	},
+	{
+		"id": "loot_crates",
+		"title": "Loot Crates",
+		"icon": "item:minecraft:writable_book"
+	},
+	{
+		"id": "thaumcraft",
+		"title": "Getting started in Thaumcraft",
+		"icon": "item:minecraft:writable_book"
+	}
+]

@@ -1,0 +1,1 @@
+The Living Rock Bonsai Pot is an upgraded version of the Bonsai pot. Placing a Bonsai Pot Manager nearby and supplying the manager with a source of mana will speed up the growth of any nearby Living Rock Bonsai pots. In addition the Manager will automatically collect any items produced by nearby Bonsai Pots.

@@ -1,0 +1,72 @@
+[
+	{
+		"id": "ore_excavator",
+		"title": "Ore Excavator",
+		"icon": "item:minecraft:writable_book"
+	},
+	{
+		"id": "yabba",
+		"title": "YABBA Barrels",
+		"icon": "item:minecraft:writable_book"
+	},
+	{
+		"id": "bonsai",
+		"title": "Bonsai",
+		"icon": "item:minecraft:writable_book"
+	},
+	{
+		"id": "miner",
+		"title": "Beast Coin Miner",
+		"icon": "item:minecraft:writable_book"
+	},
+	{
+		"id": "power_flower",
+		"title": "Power Flower",
+		"icon": "item:minecraft:writable_book"
+	},
+	{
+		"id": "bonemeal",
+		"title": "Bone Meal",
+		"icon": "item:minecraft:writable_book"
+	},
+	{
+		"id": "personal_link",
+		"title": "EMC Links",
+		"icon": "item:minecraft:writable_book"
+	},
+	{
+		"id": "tardis_generator",
+		"title": "Tardis Generator",
+		"icon": "item:minecraft:writable_book"
+	},
+	{
+		"id": "emc",
+		"title": "Getting started with EMC generation",
+		"icon": "item:minecraft:writable_book"
+	},
+	{
+		"id": "uu_matter",
+		"title": "UU-Matter",
+		"icon": "item:minecraft:writable_book"
+	},
+	{
+		"id": "nether",
+		"title": "The Nether",
+		"icon": "item:minecraft:writable_book"
+	},
+	{
+		"id": "end",
+		"title": "Getting to The End",
+		"icon": "item:minecraft:writable_book"
+	},
+	{
+		"id": "dim_x",
+		"title": "Getting to Dimension X",
+		"icon": "item:minecraft:writable_book"
+	},
+	{
+		"id": "money",
+		"title": "Hints for making money",
+		"icon": "item:minecraft:writable_book"
+	}
+]

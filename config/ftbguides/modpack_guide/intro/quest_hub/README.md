@@ -1,0 +1,1 @@
+FTB Sky Odyssey also introduces a brand new quest hub that has been designed from the ground up to complement our packs. This new hub makes tracking and handing in quests simple.

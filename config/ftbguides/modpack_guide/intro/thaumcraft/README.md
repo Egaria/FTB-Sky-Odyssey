@@ -1,0 +1,1 @@
+Thaumcraft has been slightly adjusted for this pack. You will no longer need to sleep in order to get started with Thaumcraft. For the resources needed to get started in Thaumcraft you can visit the Magic Shop.

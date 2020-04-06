@@ -1,0 +1,3 @@
+FTB Sky Adventures first brought the concept of the shop to FTB modpacks. In Sky Odyssey, this is expanded on and revamped from the ground up to be a more user friendly experience. Instead of containing just a few items, the shop now contains dozens of items for you to purchase which will help you on your journey. You can access the shop using the money bag icon in the top left of the inventory window.
+
+To complement the shop we have removed the physical currency used in Sky Adventures and replaced it with a new digital currency that we have named Beast Coins. You can earn Beast Coins through completing quests. You will also find a brand new block called the Beast Coin Miner that will accept various forms of power and convert that power into more coins.
